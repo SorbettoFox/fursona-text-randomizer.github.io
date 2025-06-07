@@ -1,0 +1,115 @@
+Uncommon Animals
+Animal
+Axolotl
+Platypus
+Narwhal
+Pangolin
+Aardvark
+Armadillo
+Chameleon
+Axolotl
+Quokka
+Fennec Fox
+Serval
+Caracal
+Civet
+Genet
+Binturong
+Kinkajou
+Coati
+Tamandua
+Sloth
+Anteater
+Pangolin
+Sugar Glider
+Wallaby
+Tasmanian Devil
+Wombat
+Okapi
+Markhor
+Saiga Antelope
+Maned Wolf
+Red Panda
+Fossa
+Lemur
+Aye-aye
+Slow Loris
+Potoo
+Shoebill
+Cassowary
+Kiwi
+Hoatzin
+Kakapo
+Quetzal
+Toucan
+Hornbill
+Secretary Bird
+Kori Bustard
+Frigatebird
+Albatross
+Pufferfish
+Seahorse
+Anglerfish
+Blobfish
+Nautilus
+Cuttlefish
+Mantis Shrimp
+Horseshoe Crab
+Star-nosed Mole
+Naked Mole Rat
+Echidna
+Tenrec
+Solenodon
+Monito del Monte
+Colugo
+Pangolin
+Saiga Antelope
+Addax
+Gerenuk
+Dik-dik
+Klipspringer
+Chamois
+Tahr
+Takin
+Musk Ox
+Gaur
+Banteng
+Nilgai
+Four-horned Antelope
+Blackbuck
+Springbok
+Impala
+Waterbuck
+Sable Antelope
+Roan Antelope
+Eland
+Kudu
+Nyala
+Bushbuck
+Sitatunga
+Bongo
+Addax
+Oryx
+Ibex
+Markhor
+Tahr
+Chamois
+Goral
+Serow
+Saola
+Nilgiri Tahr
+Himalayan Tahr
+Walia Ibex
+Nubian Ibex
+West Caucasian Tur
+East Caucasian Tur
+Alpine Ibex
+Spanish Ibex
+Pyrenean Ibex
+Aoudad
+Mouflon
+Urial
+Argali
+Bighorn Sheep
+Dall Sheep
+Snow Sheep
